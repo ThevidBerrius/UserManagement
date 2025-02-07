@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Documents\\Visual Studio 2012\\Projects\\UserManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F1C36-E31D-4FBF-A2E7-829FF59B8E56}|UserManagement\\UserManagement.csproj|c:\\users\\acer\\onedrive\\documents\\visual studio 2012\\projects\\usermanagement\\usermanagement\\view\\addedituser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D72F1C36-E31D-4FBF-A2E7-829FF59B8E56}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\view\\addedituser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditUser.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\Visual Studio 2012\\Projects\\UserManagement\\UserManagement\\View\\AddEditUser.aspx",
+              "RelativeDocumentMoniker": "UserManagement\\View\\AddEditUser.aspx",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\Visual Studio 2012\\Projects\\UserManagement\\UserManagement\\View\\AddEditUser.aspx",
+              "RelativeToolTip": "UserManagement\\View\\AddEditUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T04:05:20.924Z",
+              "EditorCaption": ""
             }
           ]
         }
