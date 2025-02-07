@@ -1,0 +1,5 @@
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\UserManagement\UserManagement\bin\UserManagement.dll
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\UserManagement\UserManagement\bin\UserManagement.pdb
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.dll
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.pdb
+C:\Users\Acer\OneDrive\Documents\Visual Studio 2012\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.csprojResolveAssemblyReference.cache

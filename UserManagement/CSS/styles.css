@@ -1,0 +1,179 @@
+﻿/* Common */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+}
+
+.btn {
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+/* Form */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+/* Login Page */
+.login-container {
+    width: 400px;
+    padding: 40px;
+    background-color: white;
+}
+
+.login-btn {
+    background-color: green;
+    width: 100%;
+}
+
+.login-btn:hover {
+    background-color: darkgreen;
+}
+
+/* User List Page */
+.user-list-container {
+    width: 90%;
+}
+
+.export-dropdown, .page-size-dropdown select {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+}
+
+.page-size-dropdown {
+    margin-top: 20px;
+}
+
+.page-size-dropdown label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+.gridview {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.gridview th, .gridview td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.gridview th {
+    background-color: #f2f2f2;
+}
+
+.export-dropdown {
+    margin-left: 10px;
+}
+
+.edit-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.page-size-dropdown {
+    margin-top: 20px;
+}
+
+.pager-container {
+    padding: 10px;
+    text-align: center;
+}
+
+.pager-input {
+    width: 50px;
+    padding: 5px 8px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.pager-button {
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 5px 10px;
+    margin: 0 2px;
+    text-decoration: none;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+}
+
+.pager-button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.current-page {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    border-color: #45a049;
+}
+
+.pager-button[disabled] {
+    background-color: #cccccc;
+    color: #666666;
+    cursor: not-allowed;
+}
+
+/* Add/Edit User Page */
+.user-form-container {
+    width: 400px;
+}
+
+.btn-save {
+    background-color: green;
+}
+
+.btn-cancel {
+    background-color: red;
+    margin-left: 10px;
+}
